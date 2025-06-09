@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+tf-env/
+venv/
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+.eggs/
+*.whl
+
+# Logs and local config
+*.log
+*.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# mypy, pylint, coverage, test cache
+.mypy_cache/
+.pytest_cache/
+.coverage
+.tox/
+coverage.xml
+htmlcov/
+.cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
